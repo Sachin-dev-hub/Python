@@ -1,2 +1,2 @@
 print("Hello, World!")
-printPOLE SCM enabled! ")
+print("this is nuild 6")
